@@ -1,0 +1,8 @@
+medium
+
+
+1. find total number of pairs having difference <=k
+https://www.geeksforgeeks.org/problems/pairs-with-difference-less-than-k1348/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=bottom_sticky_on_article
+
+
+2. 
